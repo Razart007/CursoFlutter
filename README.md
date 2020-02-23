@@ -1,6 +1,11 @@
 # Curso Flutter
 Esse projeto tem como objetivo, armazenar as aulas do curso de flutter a medida em que vou estudando.
 
+# Documentação
+* Dart - https://dart.dev/
+* Flutter - https://flutter.dev/
+* Material Design - https://material.io/design/
+
 # Aplicativo 1 - Contador de Pessoas.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
@@ -9,6 +14,7 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 * Stack - Para Utilizar um component em cima de outro como layout
 * Children - Quando um widget contém vários filhos é necessário utilizar isso
 * Image.Asset - Utilização de imagens no aplicativo
+* fit - Para ajustar tamanho da imagem
 * Adição de assets e pasta de imagens
 * Column - Utilizado como o LinearLayout de forma vertical
 * alinhamento no centro com mainAxisAligment
