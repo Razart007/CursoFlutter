@@ -27,6 +27,21 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 
 Foram utilizados nesse aplicativo os seguintes widgets:
 
+* TextFormField - Igual ao EditText mas com validações utilizando formulários
+* TextEditingController - Controlador de TextField e TextFormField para não precisar set o estado do widget a todo momento ele fica funcionando de forma totalmente dinâmica
+* GlobalKey - Utilizado para validações no formulário e verificar erros
+* double.parse - Para converter valores em double
+* Scaffold - Layout mais robusto com utilização de barra do app e tambem botões, alem do funcionamento normal do container
+* AppBar
+* IcpnButton - Botão com ícone utilizado na AppBar
+* SingleChildScrollView - Barra de rolagem do aplicativo com apenas 1 filho
+* Form - Utilizado para validações
+* RaisedButton - Botão normal com fundo
+* EdgeInserts.fromLTRB - padding onde seta os valores de cada lado
+* EdgeInserts.only - padding onde seta os valores que se quer
+* keyboardType - seta o tipo de dado em que pode ser digitado no TextField ou TextFormField
+* TextInputType.number - Utilizado para um tipo de campo de texto com apenas numeros
+
 # Aplicativo 3 - Conversor de Moedas.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
