@@ -46,6 +46,16 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 
 Foram utilizados nesse aplicativo os seguintes widgets:
 
+* Consumindo dados de apis na internet;
+* Utilização de biblioteca html adicional no arquivo pubspec.yaml;
+* Biblioteca async - para esperar dados de chamadas assincronas de outros locais;
+* Biblioeca convert - para converter dados utilizado no caso do projeto de String para Json;
+* ThemeData - Para personalizar o tema do app;
+* Utilização de bordas personalidades nos TextField;
+* FutureBuilder<Map> - Conseguir requisições de apis com resposta como map;
+* future - Buscar dados de chamada assincrona e instanciar no FutureBuilder<Map>;
+* builder - com contexto e snapshot para busca de dados e verificacão de erros da api para o app;
+
 # Aplicativo 4 - Lista de Tarefas.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
