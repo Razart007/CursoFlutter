@@ -60,6 +60,23 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 
 Foram utilizados nesse aplicativo os seguintes widgets:
 
+* Map<String, dynamic> - Utilizado normalmente para pegar jsons com o título e o valor de cada componente do json
+* Expanded - Expande o widget child at´quanto der para nao quebrar a tela
+* RefreshIndicator - Refresh puxando a tela de cima pra baixo ou baixo pra cima
+* Future.delayed - Delay utilizado com o Duration para esperar uma quantidade de tempo especificada
+* sort - Busca utilizada na lista padrão do Dart;
+* File - Arquivo
+* getApplicationDocumentsDirectory - função que retorna a localização do diretório de documentos da aplicação
+* Dismissible - Component para puxar itens de lista para laterais e fazer determinada ação
+* CheckboxListTile - Lista com checklist integrada
+* CircleAvatar - Imagem com moldurade círculo
+* SnackBar - Barra utilizada no final da tela para mostrar mensagens ou com botões e ações
+* SnackBarAction - Ação de botão integrado na SnackBar
+* Duration - Seta uma duração em vários tipos de unidades temporárias como, milisegundo, segundo...
+* file.writeAsString - Escrita de String em arquivo;
+* file.readAsString - Leitura de String de arquivo
+* initState - Método sobre escrito que é executado quando o aplicativo é iniciado
+
 # Aplicativo 5 - Buscador de GIFs.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
