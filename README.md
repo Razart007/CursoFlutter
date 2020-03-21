@@ -81,6 +81,12 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 
 Foram utilizados nesse aplicativo os seguintes widgets:
 
+* Separação de telas do aplicativo e sendo chamadas com Navigator.push
+* GridView - layout do tipo tabela e suas respectivas configurações
+* GestureDetector - para pegar tipos de gestos on cliues nos widgets e tomar ações diferentes.
+* Share - Para compartilhamento de qualquer coisa do aplicativo.
+* Image.network - Para trabalhar com imagens da internet.
+
 # Aplicativo 6 - Agenda de Contatos.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
