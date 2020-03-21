@@ -90,6 +90,18 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 # Aplicativo 6 - Agenda de Contatos.
 
 Foram utilizados nesse aplicativo os seguintes widgets:
+* SQFlite - Para armazenamento de dados igual ao SQLite
+* Singleton
+* Cards
+* CircleImage
+* UiPopScope
+* BottonSheet
+* AlertDialog
+* Navigator
+* PopupMenuButton
+* ImagePicker
+* UrlLauncher
+* Focus
 
 # Aplicativo 7 - Chat Online (Firebase).
 
