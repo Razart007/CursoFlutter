@@ -91,17 +91,18 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 
 Foram utilizados nesse aplicativo os seguintes widgets:
 * SQFlite - Para armazenamento de dados igual ao SQLite
-* Singleton
-* Cards
-* CircleImage
-* UiPopScope
-* BottonSheet
-* AlertDialog
-* Navigator
-* PopupMenuButton
-* ImagePicker
-* UrlLauncher
-* Focus
+* Singleton - Para utilizar apenas uma instancia na memória de determinada classe, no caso do aplictivo foi um singleton de comunicação com o banco.
+* Cards - Utilizado para fazer uma ListView com cards customizados
+* CircleImage - Imagem cricular
+* WillPopScope - Utilizado no momento da ação de voltar da tela
+* BottonSheet - Utilizado para adicionar um modal na parte de baixo da tela
+* AlertDialog - Dialog com botões com ações
+* Navigator.push - Utilizado para ir para a próxima tela informada e a anterior é armazenada em uma fila
+* Navigator.pop - Utilizado para voltar para a tela anterior
+* PopupMenuButton - Botões de ação de Appbar
+* ImagePicker - Para pegar determinada imagem da galeria ou câmera
+* UrlLauncher - Chamar comandos do celular, no caso do app foi chamado o telefone
+* Focus - Focus de TextField
 
 # Aplicativo 7 - Chat Online (Firebase).
 
