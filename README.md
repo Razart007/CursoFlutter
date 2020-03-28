@@ -118,10 +118,14 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 * CircularProgressIndicator - Utilizado para mostrar enquanto está carregando, um circular progress
 * Manipulação de regras do Firebase
 
-
 # Aplicativo 8 - Loja Virtual.
 
-Foram utilizados nesse aplicativo os seguintes widgets:
+Foram utilizados nesse aplicativo os seguintes widgets e plugins:
+* font_awesome_flutter - Contém um conjunto de ícones bonitos para utilizar no app
+* flutter_staggered_grid_view - Visualização em Grade da tela inicial
+* carousel_pro - Arrastar as imagens para o lado
+* transparent_image - Transparência da imagens
+* path_provider - Obter o caminho de algum local do dispositivo android
 
 # Aplicativo 9 - Animações Vetoriais com Flare.
 
