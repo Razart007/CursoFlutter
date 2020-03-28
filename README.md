@@ -107,6 +107,16 @@ Foram utilizados nesse aplicativo os seguintes widgets:
 # Aplicativo 7 - Chat Online (Firebase).
 
 Foram utilizados nesse aplicativo os seguintes widgets:
+* Firestore  - Utilização de biblioteca para trabalhar com o Firebase da google
+* QuerySnapshot - Utilização para conseguir os dados do Firebase
+* iconTheme e IconThemeData - Utilizado para modificar o tema de todos os ícones do aplicativo
+* GoogleSignIn, GoogleSignInAccount, GoogleSignInAuthentication - Utilizado para fazer a autenticação auth junto com o google, pode ser feito parecido com o Facebook, Twitter entre outros
+* StorageUploadTask - Tarefa de envio de arquivos grandes como imagens utilizado aqui para o Firebird
+* StorageTaskSnapshot - Chamado quando o StorageUploadTask é finalizado
+* FirebaseUser - Utilizado para pegar os dados do usuário do Firebase
+* CircularProgressIndicator - Utilizado para mostrar enquanto está carregando, um circular progress
+* Manipulação de regras do Firebase
+
 
 # Aplicativo 8 - Loja Virtual.
 
