@@ -4,6 +4,7 @@ Esse projeto tem como objetivo, armazenar as aulas do curso de flutter a medida 
 # Documentação
 * Dart - https://dart.dev/
 * Flutter - https://flutter.dev/
+* Libs - https://pub.dev/
 * Material Design - https://material.io/design/
 
 # Aplicativo 1 - Contador de Pessoas.
